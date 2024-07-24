@@ -1,0 +1,10 @@
+{
+  "name": "SerpAPI-scripts",
+  "version": "1.0.0",
+  "repository": "https://github.com/Ovi/SerpAPI-scripts.git",
+  "author": "Muhammad Ovi (Owais) <contact@muhammadovi.com>",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "serpapi": "^2.1.0"
+  }
+}
