@@ -10,3 +10,5 @@ gem 'google_search_results'
 gem 'nokogiri'
 
 gem 'mechanize', '~> 2.10'
+
+gem 'spreadsheet'
